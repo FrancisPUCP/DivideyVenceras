@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="2023_2_LAB3_Pregunta2" targetName="2023_2_LAB3_Pregunta2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1a4c2d6-396e-40bf-ad25-40c2e8b8f833" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Francis/OneDrive/Desktop/Algoritmia/DivideyVenceras/Laboratorios/2023-2_LAB3_Pregunta2" value="3F5lqy5OEVZgOPIrAg6VT2NZ170" />
+    </persistenceIdMap>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bdFFzk5y" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000002998" />
+      <entry key="S2" value="1.0011345736020376" />
+      <entry key="S5" value="1.1416607587448624" />
+      <entry key="S10" value="1.8887638727528162" />
+      <entry key="S30" value="4.812470148374722" />
+      <entry key="S60" value="6.780964464670646" />
+      <entry key="M2" value="8.216760375750814" />
+      <entry key="M5" value="11.029347890395854" />
+      <entry key="M10" value="20.528657545006514" />
+      <entry key="M15" value="32.435666148710524" />
+      <entry key="M30" value="62.26764150210825" />
+      <entry key="H1" value="98.5152588953425" />
+      <entry key="H2" value="135.2941562444781" />
+      <entry key="H4" value="164.8878084527896" />
+      <entry key="D1" value="199.5743792993566" />
+      <entry key="W1" value="206.76096336050702" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.6804808834666837E-167" />
+      <entry key="S5" value="2.351175706348137E-67" />
+      <entry key="S10" value="4.8488923542889024E-34" />
+      <entry key="S30" value="7.856230223455796E-12" />
+      <entry key="S60" value="2.8041042934771864E-6" />
+      <entry key="M2" value="0.0017444155098684678" />
+      <entry key="M5" value="0.13180133458127136" />
+      <entry key="M10" value="0.8092326789757825" />
+      <entry key="M15" value="1.589259560863466" />
+      <entry key="M30" value="3.2955559793825255" />
+      <entry key="H1" value="5.095841770895608" />
+      <entry key="H2" value="6.782993463753601" />
+      <entry key="H4" value="8.101692987411246" />
+      <entry key="D1" value="9.630133839078894" />
+      <entry key="W1" value="9.945631475081013" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.006944083446613831" />
+      <entry key="MS500" value="0.37010332450002137" />
+      <entry key="S2" value="0.780470595987207" />
+      <entry key="S5" value="1.0067796959956838" />
+      <entry key="S10" value="1.692170612017313" />
+      <entry key="S30" value="4.564101535331757" />
+      <entry key="S60" value="6.595877950630307" />
+      <entry key="M2" value="8.104409013013102" />
+      <entry key="M5" value="11.10510551682823" />
+      <entry key="M10" value="21.29237250460981" />
+      <entry key="M15" value="33.976050649535374" />
+      <entry key="M30" value="65.51268322728326" />
+      <entry key="H1" value="103.57124831132631" />
+      <entry key="H2" value="142.05132215537643" />
+      <entry key="H4" value="172.9746184237401" />
+      <entry key="D1" value="209.20169707435193" />
+      <entry key="W1" value="216.7061833090996" />
+    </decayedShown>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="1.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3F5lqy5OEVZgOPIrAg6VT2NZ170" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.2023_2_LAB3_Pregunta2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="2023_2_LAB3_Pregunta2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2023_2_LAB3_Pregunta2" TARGET_NAME="2023_2_LAB3_Pregunta2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2023_2_LAB3_Pregunta2" RUN_TARGET_NAME="2023_2_LAB3_Pregunta2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1a4c2d6-396e-40bf-ad25-40c2e8b8f833" name="Changes" comment="" />
+      <created>1781373006153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781373006153</updated>
+      <workItem from="1781373007388" duration="5326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+</project>

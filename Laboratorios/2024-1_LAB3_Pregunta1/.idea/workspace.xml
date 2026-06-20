@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="2024_1_LAB3_Pregunta1" targetName="2024_1_LAB3_Pregunta1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="732bc8fb-6c09-490a-8a24-19be47790b06" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Francis/OneDrive/Desktop/Algoritmia/DivideyVenceras/Laboratorios/2024-1_LAB3_Pregunta1" value="3F5In5eeXpcegErcuqRGS1i6hKT" />
+    </persistenceIdMap>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="iJpSkt3k" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000031373980283" />
+      <entry key="S2" value="1.0420864606934053" />
+      <entry key="S5" value="1.2816157641835428" />
+      <entry key="S10" value="1.5306748196245832" />
+      <entry key="S30" value="1.8097781452113275" />
+      <entry key="S60" value="1.94787352400567" />
+      <entry key="M2" value="3.2466427056974765" />
+      <entry key="M5" value="17.767682292875172" />
+      <entry key="M10" value="47.8765033822137" />
+      <entry key="M15" value="74.1583185799863" />
+      <entry key="M30" value="125.78179521382509" />
+      <entry key="H1" value="170.57218499871604" />
+      <entry key="H2" value="200.76798184431914" />
+      <entry key="H4" value="218.39898810608926" />
+      <entry key="D1" value="234.58631695855107" />
+      <entry key="W1" value="237.50859570562207" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.3311355830575877E-269" />
+      <entry key="S2" value="6.040259168388671E-68" />
+      <entry key="S5" value="1.295522751374794E-27" />
+      <entry key="S10" value="3.6356122783280945E-14" />
+      <entry key="S30" value="4.443580248472751E-5" />
+      <entry key="S60" value="0.011076370768452061" />
+      <entry key="M2" value="0.2142556487276215" />
+      <entry key="M5" value="1.507723381027922" />
+      <entry key="M10" value="3.271951943114179" />
+      <entry key="M15" value="4.56618562735866" />
+      <entry key="M30" value="6.9485356584259845" />
+      <entry key="H1" value="8.969062153651102" />
+      <entry key="H2" value="10.326162783745469" />
+      <entry key="H4" value="11.118530815463139" />
+      <entry key="D1" value="11.84642626242291" />
+      <entry key="W1" value="11.977891149131155" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.663008005634497E-6" />
+      <entry key="MS500" value="0.08925097650742037" />
+      <entry key="S2" value="0.57578611682654" />
+      <entry key="S5" value="1.0286781761300297" />
+      <entry key="S10" value="1.3794846834344463" />
+      <entry key="S30" value="1.7508716300733096" />
+      <entry key="S60" value="1.9279262938340478" />
+      <entry key="M2" value="3.441494463099199" />
+      <entry key="M5" value="19.248187941280943" />
+      <entry key="M10" value="51.115286465580986" />
+      <entry key="M15" value="78.6919427507043" />
+      <entry key="M30" value="132.7045457595167" />
+      <entry key="H1" value="179.52446059306826" />
+      <entry key="H2" value="211.0844757575192" />
+      <entry key="H4" value="229.51231727542103" />
+      <entry key="D1" value="246.43182056468407" />
+      <entry key="W1" value="249.4863536161621" />
+    </decayedShown>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="1.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3F5In5eeXpcegErcuqRGS1i6hKT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.2024_1_LAB3_Pregunta1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="2024_1_LAB3_Pregunta1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2024_1_LAB3_Pregunta1" TARGET_NAME="2024_1_LAB3_Pregunta1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2024_1_LAB3_Pregunta1" RUN_TARGET_NAME="2024_1_LAB3_Pregunta1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="732bc8fb-6c09-490a-8a24-19be47790b06" name="Changes" comment="" />
+      <created>1781358666463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781358666463</updated>
+      <workItem from="1781358667679" duration="3804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>44</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
